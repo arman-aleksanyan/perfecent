@@ -291,6 +291,9 @@ section.hero {
       font-size: 27px;
       font-family: 'Montserrat', sans-serif;
       font-weight: 300; }
+section.hero .carousel-item img{
+  position: absolute;
+}
     section.hero .carousel-item .carousel-item-text h4 {
       font-size: 18px;
       color: #bbbbbb;
